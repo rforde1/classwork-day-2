@@ -1,0 +1,39 @@
+header{
+    background-color:black;
+    color:blanchedalmond;
+}
+
+body{
+    background-color:lightgray;
+
+}
+
+h2 {
+    padding-bottom :2px;
+}
+
+p{
+    width: 450px;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+
+/* Class selectors */
+
+
+
+.infoContact{
+    position: absolute;
+    left:900px;
+    top:200px;
+} 
+
+
+/* id selectors */
+
+#image{
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+  }
